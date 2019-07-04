@@ -21,5 +21,6 @@ return 0;
 int main()
 {
 	printf("hello world");
+	printf("by tuxingyue in github.com");
 	return 0;
 }
